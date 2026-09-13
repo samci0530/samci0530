@@ -7,6 +7,6 @@
 
 ## 📂 프로젝트
 
-- [졸업작품 - AI 재무진단 시스템](저장소링크)
+- [졸업작품 - AI 재무진단 시스템](https://github.com/samci0530/financial-diagnosis-ai.git)
 - [AWS SAA 스터디 & VPC 실습](저장소링크)
 - [CCNA 스터디 & Packet Tracer 실습](저장소링크)
